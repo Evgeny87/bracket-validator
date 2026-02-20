@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Homework\\BracketValidator\\": "src/"
+            "evgeny87\\BracketValidator\\": "src/"
         }
     },
     "require": {
@@ -13,4 +13,5 @@
     }
 
 }
+
 
