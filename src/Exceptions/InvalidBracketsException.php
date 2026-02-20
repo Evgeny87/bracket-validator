@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace evgeny\BracketValidator\Exceptions;
+namespace evgeny87\BracketValidator\Exceptions;
 
 use Exception;
 
