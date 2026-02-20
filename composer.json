@@ -1,5 +1,5 @@
 {
-    "name": "Evgeny87/bracket-validator",
+    "name": "evgeny87/bracket-validator",
     "description": "A simple library to validate bracket sequences",
     "type": "library",
     "license": "MIT",
@@ -13,3 +13,4 @@
     }
 
 }
+
