@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace evgeny\BracketValidator;
+namespace evgeny87\BracketValidator;
 
-use evgeny\BracketValidator\Exceptions\InvalidBracketsException;
+use evgeny87\BracketValidator\Exceptions\InvalidBracketsException;
 
 class Validator
 {
