@@ -18,6 +18,7 @@ class App
 
     public function run(): string 
     {
+        header('Content-Type: text/plain; charset=utf-8');
         try {
             $input = $_POST['string'] ?? '';
             $this->validator->verify($input);
